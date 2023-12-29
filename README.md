@@ -28,7 +28,7 @@ This repository contains:
 - `P7`: Floyd-Warshall's algorithm
 - `P9`: Backtracking on N-Queens problem
 - `P10`: Implementation of DAA in general programming.
-- `Extra lab`: More logic-based DSA/DAA problems.
+- `Extra lab`: More logic-based DAA problems.
 - `EXAM PRACTICE`: Some more standard algorithms used in DAA.
 
 ## Contributing
