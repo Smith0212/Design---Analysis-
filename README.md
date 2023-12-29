@@ -6,7 +6,7 @@ This repository contains various algorithms implemented in different programming
 
 - Clone the repository using:
      ```
-     git clone https://github.com/okaditya84/Design-pattern-java.git
+     git clone https://github.com/Smith0212/Design---Analysis-.git
      ```
 
 
